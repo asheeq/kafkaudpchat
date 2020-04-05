@@ -1,2 +1,2 @@
-# udpchat
-simple udp client server application
+# kafkaudpchat
+simple udp client server application using kafka producer.
